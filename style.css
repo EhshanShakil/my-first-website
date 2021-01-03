@@ -17,6 +17,7 @@ h2{
 .one{
 	background-color: lightseagreen;
 	float: left	;
+	border: 20px 10px;
 }
 p{
 	text-align: center;
